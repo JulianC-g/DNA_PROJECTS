@@ -7,10 +7,10 @@ DNA_PORT = "443"
 DNA_USER =  "devnetuser"
 DNA_PASS = "Cisco123!"
 
-#DNA_FQDN = "10.4.2.242"
+#DNA_FQDN = "your local DNA URL"
 #DNA_PORT = "443"
-# DNA_USER =  "cuervoj"
-# DNA_PASS = "VLtodocopas20"
+# DNA_USER =  "username"
+# DNA_PASS = "pass"
 
 # DNA API Calls
 DNA_AUTH_API = "/dna/system/api/v1/auth/token"
